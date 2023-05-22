@@ -1,4 +1,4 @@
-# Product-Recommendation-System-2023
+# Product Recommendation System 2023
 
 This project is the coursework for 2022-2023 study year. The idea behind the project was to create ontology based on the [Klink algorithm](http://iswc2012.semanticweb.org/sites/default/files/76490401.pdf).
 
